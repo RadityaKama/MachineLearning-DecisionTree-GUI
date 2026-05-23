@@ -30,7 +30,7 @@ Model ini menggunakan 4 variabel independen (fitur) untuk melakukan prediksi:
    ```bash
    git clone [https://github.com/username-kamu/nama-repo-kamu.git](https://github.com/username-kamu/nama-repo-kamu.git)
    cd nama-repo-kamu
-2. Instal dependensi yang dibutuhkanstreamlit -> run MachineLearning_DecisionTree_GUI.py
+2. Instal dependensi yang dibutuhkan streamlit -> run MachineLearning_DecisionTree_GUI.py
 3. Jalankan aplikasi Streamlit -> streamlit run MachineLearning_DecisionTree_GUI.py
 4. Buka browser dan akses -> http://localhost:8501
 
